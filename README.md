@@ -1,2 +1,2 @@
-# username
+# hina-sample
 Created with CodeSandbox
